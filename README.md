@@ -70,7 +70,7 @@
         <td align="center"></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.comke/kevin921115"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/kevin921115"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
 <div align="center">

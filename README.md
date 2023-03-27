@@ -3,14 +3,8 @@
   Senior Full Stack Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-(https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <p align="center">
-  <!-- <img src="https://github.com/WebTech0321/WebTech0321/blob/main/Logo.gif" /> -->
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;10+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=5001&pause=2000&color=0BF700&background=FFFFFF00&center=true&width=441&lines=6+%2B+years+of++experience+working;I+am+Kevin+Alex" alt="Typing SVG" />
   </a>
 </p>
 
@@ -69,15 +63,6 @@
 
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=WebTech0321&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WebTech0321&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="WebTech0321's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WebTech0321&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
-  
-</p>
-</details>
 <table>
     <tr>
         <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
@@ -98,7 +83,8 @@
 </h2>
 <br />
 <p>
-Email: volleyvolley321@hotmail.com <br />
-Skype: live:volleyvolley321 <br />
+Email: kevin.dev921115@gmail.com <br />
+Skype: live:.cid.a2f9bedffe5626e9 <br />
+Discord: Kevin Alex#5061 <br/>
 </p>
 </div>

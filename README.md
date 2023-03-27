@@ -1,16 +1,23 @@
-### Hi there 👋
+ Senior Full Stack Engineer 
 
-<!--
-**kevin921115/kevin921115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Core Skills
+🔭 Frontend : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
+🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
+👨‍💻 Backend : PHP / Laravel, CI, Node.js / Express, Python / Django
+💬 Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+📫 Languages : JavaScript, TypeScript, C++, Java, PHP, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages & Tools
+                                    
+
+
+😇 My Github Stats:
+
+  WebTech0321's Activity Graph
+
+ How to reach me 
+
+Email: volleyvolley321@hotmail.com
+Skype: live:volleyvolley321

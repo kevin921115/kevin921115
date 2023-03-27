@@ -60,20 +60,12 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
-
-<summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
 <table>
-    <tr>
-        <td align="center"><a href="https://github.com/kevin921115#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Kevin Alex&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/kevin921115#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Kevin Alex&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/kevin921115#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin Alex&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/kevin921115#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin Alex&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
+   
     <tr>
         <td align="center"><a href="https://github.com/kevin921115#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin Alex&theme=default"/></a><a href="https://github.com/kevin921115#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin Alex&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/kevin921115#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/kevin921115#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
+    
 </table>
 <div align="center">
 <h2>

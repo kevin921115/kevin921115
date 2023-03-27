@@ -3,7 +3,7 @@
   Senior Full Stack Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-
+(https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <p align="center">
   <!-- <img src="https://github.com/WebTech0321/WebTech0321/blob/main/Logo.gif" /> -->
 </p>

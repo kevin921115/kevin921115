@@ -16,7 +16,7 @@
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - 📫 <b>Languages</b> : JavaScript, TypeScript, C++, Java, PHP, Python
 
-<!-- ## Languages & Tools
+## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -54,7 +54,7 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/erp.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/crm.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code> -->
+<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 <table>
     <tr>
@@ -79,6 +79,6 @@
 <p>
 Email: kevin.dev921115@gmail.com <br />
 Skype: live:.cid.a2f9bedffe5626e9 <br />
-Discord: Kevin Alex#5061 <br/>
+Discord: !kevingod#5061 <br/>
 </p>
 </div>

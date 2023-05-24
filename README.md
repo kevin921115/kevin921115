@@ -76,10 +76,10 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
 </h2>
 <br />
-<h1>
+<h3>
 Email: kevin.dev921115@gmail.com <br />
 Skype: live:.cid.a2f9bedffe5626e9 <br />
 Discord: !kevingod#5061 <br/>
  Telegram: https://t.me/kevin921115 <br/>
-</h1>
+</h3>
 </div>
